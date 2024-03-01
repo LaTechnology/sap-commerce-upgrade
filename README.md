@@ -1,2 +1,2 @@
 # sap-commerce-upgrade
-Commerce upgrade from 2205 to 2211
+Commerce upgrade from 2205 to 2211.
